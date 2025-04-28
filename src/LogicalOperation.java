@@ -14,7 +14,7 @@ public class LogicalOperation {
 
         /*
          *  - : 減法
-         */
+        //  */
         // int a = 5;
         // int b = 12;
 
@@ -26,7 +26,7 @@ public class LogicalOperation {
 
         /*
          *  * : 乘法
-         */
+        //  */
         // int a = 5;
         // int b = 12;
         // int product = a * b;
@@ -46,13 +46,24 @@ public class LogicalOperation {
 
         /*
          *  % : 餘數
-         */
+        //  */
         // int a = 15;
         // int b = 4;
 
+// for(int i=1;i<=100;i++){
+// if(i%15==0){
+//     System.out.println("FizzBuzz");
+// }else if(i%5==0){
+//     System.out.println("Buzz");
+// }else if(i%3==0){
+//     System.out.println("Fizz");
+// }else{
+//     System.out.println(i);
+// }
+// }
         // int remainder = a % b;
         // System.out.println(remainder);
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
         
         /*
          *  == : 等於
