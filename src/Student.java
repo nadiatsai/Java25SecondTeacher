@@ -4,11 +4,10 @@ public class Student {
 
     
     
-    /*     public Student(String name, int score) {
-            this.name = name;
-            this.score = score;
+    /*     public Student(String name, int inputScore) {
+            this.setName = name;
+            this.setScore = (inputScore);
         } */
-    
         public String getName() {
             return this.name;
         }
